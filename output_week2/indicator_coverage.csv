@@ -1,0 +1,8 @@
+Indicator Code,Indicator,Rows available,Countries with any data
+NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),6359,266
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",6625,266
+IT.NET.USER.ZS,Individuals using the Internet (% of population),5530,266
+SP.POP.TOTL,"Population, total",6625,266
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",5866,266
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",6100,266
+EG.ELC.ACCS.ZS,Access to electricity (% of population),6550,266
